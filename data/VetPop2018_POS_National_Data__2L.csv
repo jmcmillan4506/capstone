@@ -1,0 +1,1489 @@
+Date,Gender,POS,Veterans
+09/30/2018 12:00:00 AM,F,(h) Pre-WWII,127
+09/30/2018 12:00:00 AM,F,(i) WWII only,26412
+09/30/2018 12:00:00 AM,F,(j) WWII & KC,821
+09/30/2018 12:00:00 AM,F,"(k) WWII, KC, VNE",607
+09/30/2018 12:00:00 AM,F,(l) Between WWII & KC,3122
+09/30/2018 12:00:00 AM,F,(m) KC only,33255
+09/30/2018 12:00:00 AM,F,(n) KC & VNE,2570
+09/30/2018 12:00:00 AM,F,(o) Between KC & VNE,51818
+09/30/2018 12:00:00 AM,F,(p) VNE only,239797
+09/30/2018 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,16561
+09/30/2018 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3564
+09/30/2018 12:00:00 AM,F,(t) Between VNE & GW Era,383048
+09/30/2018 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,435292
+09/30/2018 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,232385
+09/30/2018 12:00:00 AM,F,(w) GW Era - Post 9/11 only,563886
+09/30/2018 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,5084
+09/30/2018 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2018 12:00:00 AM,F,(a) All Veterans (b+c),1998351
+09/30/2018 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1560236
+09/30/2018 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),438115
+09/30/2018 12:00:00 AM,F,(d) WW II (i+j+k),27841
+09/30/2018 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),37253
+09/30/2018 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),268184
+09/30/2018 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1256773
+09/30/2018 12:00:00 AM,M,(h) Pre-WWII,3966
+09/30/2018 12:00:00 AM,M,(i) WWII only,500952
+09/30/2018 12:00:00 AM,M,(j) WWII & KC,26889
+09/30/2018 12:00:00 AM,M,"(k) WWII, KC, VNE",12663
+09/30/2018 12:00:00 AM,M,(l) Between WWII & KC,73689
+09/30/2018 12:00:00 AM,M,(m) KC only,1204628
+09/30/2018 12:00:00 AM,M,(n) KC & VNE,116056
+09/30/2018 12:00:00 AM,M,(o) Between KC & VNE,1460560
+09/30/2018 12:00:00 AM,M,(p) VNE only,5852199
+09/30/2018 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,272041
+09/30/2018 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",63551
+09/30/2018 12:00:00 AM,M,(t) Between VNE & GW Era,2633301
+09/30/2018 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2330701
+09/30/2018 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1273195
+09/30/2018 12:00:00 AM,M,(w) GW Era - Post 9/11 only,2452985
+09/30/2018 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,58168
+09/30/2018 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2018 12:00:00 AM,M,(a) All Veterans (b+c),18335543
+09/30/2018 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),14164028
+09/30/2018 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),4171515
+09/30/2018 12:00:00 AM,M,(d) WW II (i+j+k),540503
+09/30/2018 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),1360235
+09/30/2018 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),6374677
+09/30/2018 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6450642
+09/30/2019 12:00:00 AM,F,(h) Pre-WWII,101
+09/30/2019 12:00:00 AM,F,(i) WWII only,20495
+09/30/2019 12:00:00 AM,F,(j) WWII & KC,678
+09/30/2019 12:00:00 AM,F,"(k) WWII, KC, VNE",509
+09/30/2019 12:00:00 AM,F,(l) Between WWII & KC,2703
+09/30/2019 12:00:00 AM,F,(m) KC only,30369
+09/30/2019 12:00:00 AM,F,(n) KC & VNE,2369
+09/30/2019 12:00:00 AM,F,(o) Between KC & VNE,49531
+09/30/2019 12:00:00 AM,F,(p) VNE only,235619
+09/30/2019 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,16352
+09/30/2019 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3521
+09/30/2019 12:00:00 AM,F,(t) Between VNE & GW Era,380518
+09/30/2019 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,434045
+09/30/2019 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,235833
+09/30/2019 12:00:00 AM,F,(w) GW Era - Post 9/11 only,597093
+09/30/2019 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4980
+09/30/2019 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2019 12:00:00 AM,F,(a) All Veterans (b+c),2014727
+09/30/2019 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1581863
+09/30/2019 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),432853
+09/30/2019 12:00:00 AM,F,(d) WW II (i+j+k),21683
+09/30/2019 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),33925
+09/30/2019 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),263351
+09/30/2019 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1291824
+09/30/2019 12:00:00 AM,M,(h) Pre-WWII,3014
+09/30/2019 12:00:00 AM,M,(i) WWII only,379983
+09/30/2019 12:00:00 AM,M,(j) WWII & KC,21837
+09/30/2019 12:00:00 AM,M,"(k) WWII, KC, VNE",10204
+09/30/2019 12:00:00 AM,M,(l) Between WWII & KC,61599
+09/30/2019 12:00:00 AM,M,(m) KC only,1073058
+09/30/2019 12:00:00 AM,M,(n) KC & VNE,104536
+09/30/2019 12:00:00 AM,M,(o) Between KC & VNE,1374424
+09/30/2019 12:00:00 AM,M,(p) VNE only,5690054
+09/30/2019 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,265810
+09/30/2019 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",62158
+09/30/2019 12:00:00 AM,M,(t) Between VNE & GW Era,2604166
+09/30/2019 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2318585
+09/30/2019 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1291783
+09/30/2019 12:00:00 AM,M,(w) GW Era - Post 9/11 only,2596394
+09/30/2019 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,56462
+09/30/2019 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2019 12:00:00 AM,M,(a) All Veterans (b+c),17914068
+09/30/2019 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),13870866
+09/30/2019 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),4043202
+09/30/2019 12:00:00 AM,M,(d) WW II (i+j+k),412025
+09/30/2019 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),1209635
+09/30/2019 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),6189224
+09/30/2019 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6591193
+09/30/2020 12:00:00 AM,F,(h) Pre-WWII,79
+09/30/2020 12:00:00 AM,F,(i) WWII only,15662
+09/30/2020 12:00:00 AM,F,(j) WWII & KC,552
+09/30/2020 12:00:00 AM,F,"(k) WWII, KC, VNE",422
+09/30/2020 12:00:00 AM,F,(l) Between WWII & KC,2331
+09/30/2020 12:00:00 AM,F,(m) KC only,27524
+09/30/2020 12:00:00 AM,F,(n) KC & VNE,2168
+09/30/2020 12:00:00 AM,F,(o) Between KC & VNE,47145
+09/30/2020 12:00:00 AM,F,(p) VNE only,231185
+09/30/2020 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,16129
+09/30/2020 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3475
+09/30/2020 12:00:00 AM,F,(t) Between VNE & GW Era,377799
+09/30/2020 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,432681
+09/30/2020 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,239089
+09/30/2020 12:00:00 AM,F,(w) GW Era - Post 9/11 only,629457
+09/30/2020 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4870
+09/30/2020 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2020 12:00:00 AM,F,(a) All Veterans (b+c),2030586
+09/30/2020 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1603214
+09/30/2020 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),427354
+09/30/2020 12:00:00 AM,F,(d) WW II (i+j+k),16637
+09/30/2020 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),30665
+09/30/2020 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),258249
+09/30/2020 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1325701
+09/30/2020 12:00:00 AM,M,(h) Pre-WWII,2233
+09/30/2020 12:00:00 AM,M,(i) WWII only,283462
+09/30/2020 12:00:00 AM,M,(j) WWII & KC,17407
+09/30/2020 12:00:00 AM,M,"(k) WWII, KC, VNE",8068
+09/30/2020 12:00:00 AM,M,(l) Between WWII & KC,50956
+09/30/2020 12:00:00 AM,M,(m) KC only,946510
+09/30/2020 12:00:00 AM,M,(n) KC & VNE,93345
+09/30/2020 12:00:00 AM,M,(o) Between KC & VNE,1287256
+09/30/2020 12:00:00 AM,M,(p) VNE only,5523075
+09/30/2020 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,259409
+09/30/2020 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",60730
+09/30/2020 12:00:00 AM,M,(t) Between VNE & GW Era,2573284
+09/30/2020 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2305411
+09/30/2020 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1308967
+09/30/2020 12:00:00 AM,M,(w) GW Era - Post 9/11 only,2736543
+09/30/2020 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,54719
+09/30/2020 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2020 12:00:00 AM,M,(a) All Veterans (b+c),17511374
+09/30/2020 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),13597646
+09/30/2020 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3913728
+09/30/2020 12:00:00 AM,M,(d) WW II (i+j+k),308937
+09/30/2020 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),1065330
+09/30/2020 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),5999345
+09/30/2020 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6725779
+09/30/2021 12:00:00 AM,F,(h) Pre-WWII,60
+09/30/2021 12:00:00 AM,F,(i) WWII only,11769
+09/30/2021 12:00:00 AM,F,(j) WWII & KC,441
+09/30/2021 12:00:00 AM,F,"(k) WWII, KC, VNE",344
+09/30/2021 12:00:00 AM,F,(l) Between WWII & KC,1999
+09/30/2021 12:00:00 AM,F,(m) KC only,24672
+09/30/2021 12:00:00 AM,F,(n) KC & VNE,1963
+09/30/2021 12:00:00 AM,F,(o) Between KC & VNE,44610
+09/30/2021 12:00:00 AM,F,(p) VNE only,226424
+09/30/2021 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,15885
+09/30/2021 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3425
+09/30/2021 12:00:00 AM,F,(t) Between VNE & GW Era,374869
+09/30/2021 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,431194
+09/30/2021 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,240778
+09/30/2021 12:00:00 AM,F,(w) GW Era - Post 9/11 only,662171
+09/30/2021 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4754
+09/30/2021 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2021 12:00:00 AM,F,(a) All Veterans (b+c),2045384
+09/30/2021 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1623821
+09/30/2021 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),421538
+09/30/2021 12:00:00 AM,F,(d) WW II (i+j+k),12554
+09/30/2021 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),27421
+09/30/2021 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),252796
+09/30/2021 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1358207
+09/30/2021 12:00:00 AM,M,(h) Pre-WWII,1614
+09/30/2021 12:00:00 AM,M,(i) WWII only,207915
+09/30/2021 12:00:00 AM,M,(j) WWII & KC,13606
+09/30/2021 12:00:00 AM,M,"(k) WWII, KC, VNE",6254
+09/30/2021 12:00:00 AM,M,(l) Between WWII & KC,41606
+09/30/2021 12:00:00 AM,M,(m) KC only,824357
+09/30/2021 12:00:00 AM,M,(n) KC & VNE,82394
+09/30/2021 12:00:00 AM,M,(o) Between KC & VNE,1197713
+09/30/2021 12:00:00 AM,M,(p) VNE only,5347903
+09/30/2021 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,252689
+09/30/2021 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",59234
+09/30/2021 12:00:00 AM,M,(t) Between VNE & GW Era,2540627
+09/30/2021 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2291047
+09/30/2021 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1316894
+09/30/2021 12:00:00 AM,M,(w) GW Era - Post 9/11 only,2880353
+09/30/2021 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,52923
+09/30/2021 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2021 12:00:00 AM,M,(a) All Veterans (b+c),17117131
+09/30/2021 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),13335570
+09/30/2021 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3781561
+09/30/2021 12:00:00 AM,M,(d) WW II (i+j+k),227775
+09/30/2021 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),926611
+09/30/2021 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),5801398
+09/30/2021 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6853141
+09/30/2022 12:00:00 AM,F,(h) Pre-WWII,45
+09/30/2022 12:00:00 AM,F,(i) WWII only,8694
+09/30/2022 12:00:00 AM,F,(j) WWII & KC,346
+09/30/2022 12:00:00 AM,F,"(k) WWII, KC, VNE",276
+09/30/2022 12:00:00 AM,F,(l) Between WWII & KC,1703
+09/30/2022 12:00:00 AM,F,(m) KC only,21875
+09/30/2022 12:00:00 AM,F,(n) KC & VNE,1761
+09/30/2022 12:00:00 AM,F,(o) Between KC & VNE,41968
+09/30/2022 12:00:00 AM,F,(p) VNE only,221347
+09/30/2022 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,15623
+09/30/2022 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3369
+09/30/2022 12:00:00 AM,F,(t) Between VNE & GW Era,371702
+09/30/2022 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,429548
+09/30/2022 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,241710
+09/30/2022 12:00:00 AM,F,(w) GW Era - Post 9/11 only,695174
+09/30/2022 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4635
+09/30/2022 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2022 12:00:00 AM,F,(a) All Veterans (b+c),2059805
+09/30/2022 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1644358
+09/30/2022 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),415418
+09/30/2022 12:00:00 AM,F,(d) WW II (i+j+k),9316
+09/30/2022 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),24258
+09/30/2022 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),247010
+09/30/2022 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1390059
+09/30/2022 12:00:00 AM,M,(h) Pre-WWII,1140
+09/30/2022 12:00:00 AM,M,(i) WWII only,149900
+09/30/2022 12:00:00 AM,M,(j) WWII & KC,10421
+09/30/2022 12:00:00 AM,M,"(k) WWII, KC, VNE",4751
+09/30/2022 12:00:00 AM,M,(l) Between WWII & KC,33481
+09/30/2022 12:00:00 AM,M,(m) KC only,708184
+09/30/2022 12:00:00 AM,M,(n) KC & VNE,71824
+09/30/2022 12:00:00 AM,M,(o) Between KC & VNE,1106249
+09/30/2022 12:00:00 AM,M,(p) VNE only,5163608
+09/30/2022 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,245607
+09/30/2022 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",57656
+09/30/2022 12:00:00 AM,M,(t) Between VNE & GW Era,2506250
+09/30/2022 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2275422
+09/30/2022 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1319856
+09/30/2022 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3026972
+09/30/2022 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,51067
+09/30/2022 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2022 12:00:00 AM,M,(a) All Veterans (b+c),16732386
+09/30/2022 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),13085266
+09/30/2022 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3647119
+09/30/2022 12:00:00 AM,M,(d) WW II (i+j+k),165071
+09/30/2022 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),795179
+09/30/2022 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),5594512
+09/30/2022 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6976579
+09/30/2023 12:00:00 AM,F,(h) Pre-WWII,33
+09/30/2023 12:00:00 AM,F,(i) WWII only,6317
+09/30/2023 12:00:00 AM,F,(j) WWII & KC,267
+09/30/2023 12:00:00 AM,F,"(k) WWII, KC, VNE",217
+09/30/2023 12:00:00 AM,F,(l) Between WWII & KC,1444
+09/30/2023 12:00:00 AM,F,(m) KC only,19205
+09/30/2023 12:00:00 AM,F,(n) KC & VNE,1565
+09/30/2023 12:00:00 AM,F,(o) Between KC & VNE,39273
+09/30/2023 12:00:00 AM,F,(p) VNE only,215967
+09/30/2023 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,15342
+09/30/2023 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3310
+09/30/2023 12:00:00 AM,F,(t) Between VNE & GW Era,368296
+09/30/2023 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,427744
+09/30/2023 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,242144
+09/30/2023 12:00:00 AM,F,(w) GW Era - Post 9/11 only,728342
+09/30/2023 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4510
+09/30/2023 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2023 12:00:00 AM,F,(a) All Veterans (b+c),2074007
+09/30/2023 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1664929
+09/30/2023 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),409046
+09/30/2023 12:00:00 AM,F,(d) WW II (i+j+k),6801
+09/30/2023 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),21254
+09/30/2023 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),240910
+09/30/2023 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1421392
+09/30/2023 12:00:00 AM,M,(h) Pre-WWII,787
+09/30/2023 12:00:00 AM,M,(i) WWII only,106187
+09/30/2023 12:00:00 AM,M,(j) WWII & KC,7816
+09/30/2023 12:00:00 AM,M,"(k) WWII, KC, VNE",3536
+09/30/2023 12:00:00 AM,M,(l) Between WWII & KC,26515
+09/30/2023 12:00:00 AM,M,(m) KC only,599982
+09/30/2023 12:00:00 AM,M,(n) KC & VNE,61830
+09/30/2023 12:00:00 AM,M,(o) Between KC & VNE,1014347
+09/30/2023 12:00:00 AM,M,(p) VNE only,4971259
+09/30/2023 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,238189
+09/30/2023 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",55998
+09/30/2023 12:00:00 AM,M,(t) Between VNE & GW Era,2470329
+09/30/2023 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2258514
+09/30/2023 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1319452
+09/30/2023 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3175580
+09/30/2023 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,49151
+09/30/2023 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2023 12:00:00 AM,M,(a) All Veterans (b+c),16359473
+09/30/2023 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),12847495
+09/30/2023 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3511978
+09/30/2023 12:00:00 AM,M,(d) WW II (i+j+k),117540
+09/30/2023 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),673164
+09/30/2023 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),5379964
+09/30/2023 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7096885
+09/30/2024 12:00:00 AM,F,(h) Pre-WWII,24
+09/30/2024 12:00:00 AM,F,(i) WWII only,4513
+09/30/2024 12:00:00 AM,F,(j) WWII & KC,203
+09/30/2024 12:00:00 AM,F,"(k) WWII, KC, VNE",168
+09/30/2024 12:00:00 AM,F,(l) Between WWII & KC,1217
+09/30/2024 12:00:00 AM,F,(m) KC only,16685
+09/30/2024 12:00:00 AM,F,(n) KC & VNE,1377
+09/30/2024 12:00:00 AM,F,(o) Between KC & VNE,36566
+09/30/2024 12:00:00 AM,F,(p) VNE only,210315
+09/30/2024 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,15042
+09/30/2024 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3247
+09/30/2024 12:00:00 AM,F,(t) Between VNE & GW Era,364655
+09/30/2024 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,425766
+09/30/2024 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,242200
+09/30/2024 12:00:00 AM,F,(w) GW Era - Post 9/11 only,761417
+09/30/2024 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4382
+09/30/2024 12:00:00 AM,F,(x) Post-GW Era,0
+09/30/2024 12:00:00 AM,F,(a) All Veterans (b+c),2087809
+09/30/2024 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1685314
+09/30/2024 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),402462
+09/30/2024 12:00:00 AM,F,(d) WW II (i+j+k),4883
+09/30/2024 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),18433
+09/30/2024 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),234531
+09/30/2024 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1452053
+09/30/2024 12:00:00 AM,M,(h) Pre-WWII,532
+09/30/2024 12:00:00 AM,M,(i) WWII only,73878
+09/30/2024 12:00:00 AM,M,(j) WWII & KC,5739
+09/30/2024 12:00:00 AM,M,"(k) WWII, KC, VNE",2579
+09/30/2024 12:00:00 AM,M,(l) Between WWII & KC,20633
+09/30/2024 12:00:00 AM,M,(m) KC only,500844
+09/30/2024 12:00:00 AM,M,(n) KC & VNE,52528
+09/30/2024 12:00:00 AM,M,(o) Between KC & VNE,923473
+09/30/2024 12:00:00 AM,M,(p) VNE only,4772902
+09/30/2024 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,230499
+09/30/2024 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",54276
+09/30/2024 12:00:00 AM,M,(t) Between VNE & GW Era,2433043
+09/30/2024 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2240336
+09/30/2024 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1316588
+09/30/2024 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3324224
+09/30/2024 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,47193
+09/30/2024 12:00:00 AM,M,(x) Post-GW Era,0
+09/30/2024 12:00:00 AM,M,(a) All Veterans (b+c),15999266
+09/30/2024 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),12621586
+09/30/2024 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3377680
+09/30/2024 12:00:00 AM,M,(d) WW II (i+j+k),82196
+09/30/2024 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),561690
+09/30/2024 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),5159978
+09/30/2024 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7213116
+09/30/2025 12:00:00 AM,F,(h) Pre-WWII,17
+09/30/2025 12:00:00 AM,F,(i) WWII only,3167
+09/30/2025 12:00:00 AM,F,(j) WWII & KC,151
+09/30/2025 12:00:00 AM,F,"(k) WWII, KC, VNE",128
+09/30/2025 12:00:00 AM,F,(l) Between WWII & KC,1016
+09/30/2025 12:00:00 AM,F,(m) KC only,14315
+09/30/2025 12:00:00 AM,F,(n) KC & VNE,1198
+09/30/2025 12:00:00 AM,F,(o) Between KC & VNE,33847
+09/30/2025 12:00:00 AM,F,(p) VNE only,204368
+09/30/2025 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,14722
+09/30/2025 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3179
+09/30/2025 12:00:00 AM,F,(t) Between VNE & GW Era,360750
+09/30/2025 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,423611
+09/30/2025 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,241905
+09/30/2025 12:00:00 AM,F,(w) GW Era - Post 9/11 only,788794
+09/30/2025 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4249
+09/30/2025 12:00:00 AM,F,(x) Post-GW Era,5508
+09/30/2025 12:00:00 AM,F,(a) All Veterans (b+c),2100958
+09/30/2025 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1699787
+09/30/2025 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),401137
+09/30/2025 12:00:00 AM,F,(d) WW II (i+j+k),3446
+09/30/2025 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),15792
+09/30/2025 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),227844
+09/30/2025 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1476460
+09/30/2025 12:00:00 AM,M,(h) Pre-WWII,352
+09/30/2025 12:00:00 AM,M,(i) WWII only,50461
+09/30/2025 12:00:00 AM,M,(j) WWII & KC,4124
+09/30/2025 12:00:00 AM,M,"(k) WWII, KC, VNE",1842
+09/30/2025 12:00:00 AM,M,(l) Between WWII & KC,15756
+09/30/2025 12:00:00 AM,M,(m) KC only,411334
+09/30/2025 12:00:00 AM,M,(n) KC & VNE,43969
+09/30/2025 12:00:00 AM,M,(o) Between KC & VNE,833674
+09/30/2025 12:00:00 AM,M,(p) VNE only,4568236
+09/30/2025 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,222524
+09/30/2025 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",52485
+09/30/2025 12:00:00 AM,M,(t) Between VNE & GW Era,2394362
+09/30/2025 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2220864
+09/30/2025 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1311407
+09/30/2025 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3451101
+09/30/2025 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,45201
+09/30/2025 12:00:00 AM,M,(x) Post-GW Era,20921
+09/30/2025 12:00:00 AM,M,(a) All Veterans (b+c),15648613
+09/30/2025 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),12383548
+09/30/2025 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3265065
+09/30/2025 12:00:00 AM,M,(d) WW II (i+j+k),56427
+09/30/2025 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),461269
+09/30/2025 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),4934257
+09/30/2025 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7303582
+09/30/2026 12:00:00 AM,F,(h) Pre-WWII,11
+09/30/2026 12:00:00 AM,F,(i) WWII only,2182
+09/30/2026 12:00:00 AM,F,(j) WWII & KC,111
+09/30/2026 12:00:00 AM,F,"(k) WWII, KC, VNE",95
+09/30/2026 12:00:00 AM,F,(l) Between WWII & KC,839
+09/30/2026 12:00:00 AM,F,(m) KC only,12114
+09/30/2026 12:00:00 AM,F,(n) KC & VNE,1029
+09/30/2026 12:00:00 AM,F,(o) Between KC & VNE,31119
+09/30/2026 12:00:00 AM,F,(p) VNE only,198132
+09/30/2026 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,14382
+09/30/2026 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3106
+09/30/2026 12:00:00 AM,F,(t) Between VNE & GW Era,356564
+09/30/2026 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,421275
+09/30/2026 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,241365
+09/30/2026 12:00:00 AM,F,(w) GW Era - Post 9/11 only,812872
+09/30/2026 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,4112
+09/30/2026 12:00:00 AM,F,(x) Post-GW Era,14233
+09/30/2026 12:00:00 AM,F,(a) All Veterans (b+c),2113574
+09/30/2026 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1710775
+09/30/2026 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),402767
+09/30/2026 12:00:00 AM,F,(d) WW II (i+j+k),2388
+09/30/2026 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),13349
+09/30/2026 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),220856
+09/30/2026 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1497112
+09/30/2026 12:00:00 AM,M,(h) Pre-WWII,228
+09/30/2026 12:00:00 AM,M,(i) WWII only,33835
+09/30/2026 12:00:00 AM,M,(j) WWII & KC,2902
+09/30/2026 12:00:00 AM,M,"(k) WWII, KC, VNE",1289
+09/30/2026 12:00:00 AM,M,(l) Between WWII & KC,11797
+09/30/2026 12:00:00 AM,M,(m) KC only,332069
+09/30/2026 12:00:00 AM,M,(n) KC & VNE,36225
+09/30/2026 12:00:00 AM,M,(o) Between KC & VNE,745658
+09/30/2026 12:00:00 AM,M,(p) VNE only,4357624
+09/30/2026 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,214265
+09/30/2026 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",50624
+09/30/2026 12:00:00 AM,M,(t) Between VNE & GW Era,2354164
+09/30/2026 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2200100
+09/30/2026 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1304605
+09/30/2026 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3563297
+09/30/2026 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,43177
+09/30/2026 12:00:00 AM,M,(x) Post-GW Era,56327
+09/30/2026 12:00:00 AM,M,(a) All Veterans (b+c),15308186
+09/30/2026 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),12140012
+09/30/2026 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3168174
+09/30/2026 12:00:00 AM,M,(d) WW II (i+j+k),38026
+09/30/2026 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),372486
+09/30/2026 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),4703204
+09/30/2026 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7376068
+09/30/2027 12:00:00 AM,F,(h) Pre-WWII,8
+09/30/2027 12:00:00 AM,F,(i) WWII only,1476
+09/30/2027 12:00:00 AM,F,(j) WWII & KC,79
+09/30/2027 12:00:00 AM,F,"(k) WWII, KC, VNE",70
+09/30/2027 12:00:00 AM,F,(l) Between WWII & KC,683
+09/30/2027 12:00:00 AM,F,(m) KC only,10101
+09/30/2027 12:00:00 AM,F,(n) KC & VNE,870
+09/30/2027 12:00:00 AM,F,(o) Between KC & VNE,28379
+09/30/2027 12:00:00 AM,F,(p) VNE only,191592
+09/30/2027 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,14022
+09/30/2027 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3028
+09/30/2027 12:00:00 AM,F,(t) Between VNE & GW Era,352114
+09/30/2027 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,418760
+09/30/2027 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,240536
+09/30/2027 12:00:00 AM,F,(w) GW Era - Post 9/11 only,832115
+09/30/2027 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3971
+09/30/2027 12:00:00 AM,F,(x) Post-GW Era,27712
+09/30/2027 12:00:00 AM,F,(a) All Veterans (b+c),2125548
+09/30/2027 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1716621
+09/30/2027 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),408896
+09/30/2027 12:00:00 AM,F,(d) WW II (i+j+k),1625
+09/30/2027 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),11120
+09/30/2027 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),213553
+09/30/2027 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1512433
+09/30/2027 12:00:00 AM,M,(h) Pre-WWII,144
+09/30/2027 12:00:00 AM,M,(i) WWII only,22277
+09/30/2027 12:00:00 AM,M,(j) WWII & KC,2000
+09/30/2027 12:00:00 AM,M,"(k) WWII, KC, VNE",884
+09/30/2027 12:00:00 AM,M,(l) Between WWII & KC,8660
+09/30/2027 12:00:00 AM,M,(m) KC only,263329
+09/30/2027 12:00:00 AM,M,(n) KC & VNE,29348
+09/30/2027 12:00:00 AM,M,(o) Between KC & VNE,660034
+09/30/2027 12:00:00 AM,M,(p) VNE only,4140948
+09/30/2027 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,205715
+09/30/2027 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",48692
+09/30/2027 12:00:00 AM,M,(t) Between VNE & GW Era,2312458
+09/30/2027 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2178094
+09/30/2027 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1295985
+09/30/2027 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3653246
+09/30/2027 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,41118
+09/30/2027 12:00:00 AM,M,(x) Post-GW Era,113592
+09/30/2027 12:00:00 AM,M,(a) All Veterans (b+c),14976525
+09/30/2027 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),11881636
+09/30/2027 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3094889
+09/30/2027 12:00:00 AM,M,(d) WW II (i+j+k),25162
+09/30/2027 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),295561
+09/30/2027 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),4466704
+09/30/2027 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7422850
+09/30/2028 12:00:00 AM,F,(h) Pre-WWII,5
+09/30/2028 12:00:00 AM,F,(i) WWII only,979
+09/30/2028 12:00:00 AM,F,(j) WWII & KC,56
+09/30/2028 12:00:00 AM,F,"(k) WWII, KC, VNE",50
+09/30/2028 12:00:00 AM,F,(l) Between WWII & KC,548
+09/30/2028 12:00:00 AM,F,(m) KC only,8295
+09/30/2028 12:00:00 AM,F,(n) KC & VNE,725
+09/30/2028 12:00:00 AM,F,(o) Between KC & VNE,25651
+09/30/2028 12:00:00 AM,F,(p) VNE only,184746
+09/30/2028 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,13640
+09/30/2028 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2945
+09/30/2028 12:00:00 AM,F,(t) Between VNE & GW Era,347379
+09/30/2028 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,416055
+09/30/2028 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,239498
+09/30/2028 12:00:00 AM,F,(w) GW Era - Post 9/11 only,843946
+09/30/2028 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3825
+09/30/2028 12:00:00 AM,F,(x) Post-GW Era,48380
+09/30/2028 12:00:00 AM,F,(a) All Veterans (b+c),2136752
+09/30/2028 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1714759
+09/30/2028 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),421963
+09/30/2028 12:00:00 AM,F,(d) WW II (i+j+k),1085
+09/30/2028 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),9125
+09/30/2028 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),205931
+09/30/2028 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1519908
+09/30/2028 12:00:00 AM,M,(h) Pre-WWII,89
+09/30/2028 12:00:00 AM,M,(i) WWII only,14403
+09/30/2028 12:00:00 AM,M,(j) WWII & KC,1352
+09/30/2028 12:00:00 AM,M,"(k) WWII, KC, VNE",594
+09/30/2028 12:00:00 AM,M,(l) Between WWII & KC,6234
+09/30/2028 12:00:00 AM,M,(m) KC only,205030
+09/30/2028 12:00:00 AM,M,(n) KC & VNE,23363
+09/30/2028 12:00:00 AM,M,(o) Between KC & VNE,577680
+09/30/2028 12:00:00 AM,M,(p) VNE only,3918618
+09/30/2028 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,196874
+09/30/2028 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",46687
+09/30/2028 12:00:00 AM,M,(t) Between VNE & GW Era,2269206
+09/30/2028 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2154828
+09/30/2028 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1286002
+09/30/2028 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3708900
+09/30/2028 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,39027
+09/30/2028 12:00:00 AM,M,(x) Post-GW Era,204012
+09/30/2028 12:00:00 AM,M,(a) All Veterans (b+c),14652900
+09/30/2028 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),11595680
+09/30/2028 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3057221
+09/30/2028 12:00:00 AM,M,(d) WW II (i+j+k),16349
+09/30/2028 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),230339
+09/30/2028 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),4225164
+09/30/2028 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7432319
+09/30/2029 12:00:00 AM,F,(h) Pre-WWII,3
+09/30/2029 12:00:00 AM,F,(i) WWII only,637
+09/30/2029 12:00:00 AM,F,(j) WWII & KC,39
+09/30/2029 12:00:00 AM,F,"(k) WWII, KC, VNE",35
+09/30/2029 12:00:00 AM,F,(l) Between WWII & KC,432
+09/30/2029 12:00:00 AM,F,(m) KC only,6707
+09/30/2029 12:00:00 AM,F,(n) KC & VNE,595
+09/30/2029 12:00:00 AM,F,(o) Between KC & VNE,22962
+09/30/2029 12:00:00 AM,F,(p) VNE only,177588
+09/30/2029 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,13234
+09/30/2029 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2857
+09/30/2029 12:00:00 AM,F,(t) Between VNE & GW Era,342342
+09/30/2029 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,413152
+09/30/2029 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,238257
+09/30/2029 12:00:00 AM,F,(w) GW Era - Post 9/11 only,853459
+09/30/2029 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3674
+09/30/2029 12:00:00 AM,F,(x) Post-GW Era,71184
+09/30/2029 12:00:00 AM,F,(a) All Veterans (b+c),2147184
+09/30/2029 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1710233
+09/30/2029 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),436923
+09/30/2029 12:00:00 AM,F,(d) WW II (i+j+k),711
+09/30/2029 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),7375
+09/30/2029 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),197983
+09/30/2029 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1524632
+09/30/2029 12:00:00 AM,M,(h) Pre-WWII,53
+09/30/2029 12:00:00 AM,M,(i) WWII only,9140
+09/30/2029 12:00:00 AM,M,(j) WWII & KC,896
+09/30/2029 12:00:00 AM,M,"(k) WWII, KC, VNE",392
+09/30/2029 12:00:00 AM,M,(l) Between WWII & KC,4402
+09/30/2029 12:00:00 AM,M,(m) KC only,156712
+09/30/2029 12:00:00 AM,M,(n) KC & VNE,18267
+09/30/2029 12:00:00 AM,M,(o) Between KC & VNE,499481
+09/30/2029 12:00:00 AM,M,(p) VNE only,3691166
+09/30/2029 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,187749
+09/30/2029 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",44611
+09/30/2029 12:00:00 AM,M,(t) Between VNE & GW Era,2224346
+09/30/2029 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2130303
+09/30/2029 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1274710
+09/30/2029 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3753919
+09/30/2029 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,36905
+09/30/2029 12:00:00 AM,M,(x) Post-GW Era,304183
+09/30/2029 12:00:00 AM,M,(a) All Veterans (b+c),14337236
+09/30/2029 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),11304769
+09/30/2029 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3032467
+09/30/2029 12:00:00 AM,M,(d) WW II (i+j+k),10427
+09/30/2029 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),176266
+09/30/2029 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),3979090
+09/30/2029 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7428197
+09/30/2030 12:00:00 AM,F,(h) Pre-WWII,2
+09/30/2030 12:00:00 AM,F,(i) WWII only,407
+09/30/2030 12:00:00 AM,F,(j) WWII & KC,26
+09/30/2030 12:00:00 AM,F,"(k) WWII, KC, VNE",24
+09/30/2030 12:00:00 AM,F,(l) Between WWII & KC,335
+09/30/2030 12:00:00 AM,F,(m) KC only,5340
+09/30/2030 12:00:00 AM,F,(n) KC & VNE,480
+09/30/2030 12:00:00 AM,F,(o) Between KC & VNE,20341
+09/30/2030 12:00:00 AM,F,(p) VNE only,170119
+09/30/2030 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,12803
+09/30/2030 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2764
+09/30/2030 12:00:00 AM,F,(t) Between VNE & GW Era,336987
+09/30/2030 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,410045
+09/30/2030 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,236843
+09/30/2030 12:00:00 AM,F,(w) GW Era - Post 9/11 only,861139
+09/30/2030 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3518
+09/30/2030 12:00:00 AM,F,(x) Post-GW Era,95748
+09/30/2030 12:00:00 AM,F,(a) All Veterans (b+c),2156946
+09/30/2030 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1703508
+09/30/2030 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),453412
+09/30/2030 12:00:00 AM,F,(d) WW II (i+j+k),457
+09/30/2030 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),5870
+09/30/2030 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),189708
+09/30/2030 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1527113
+09/30/2030 12:00:00 AM,M,(h) Pre-WWII,31
+09/30/2030 12:00:00 AM,M,(i) WWII only,5687
+09/30/2030 12:00:00 AM,M,(j) WWII & KC,582
+09/30/2030 12:00:00 AM,M,"(k) WWII, KC, VNE",253
+09/30/2030 12:00:00 AM,M,(l) Between WWII & KC,3051
+09/30/2030 12:00:00 AM,M,(m) KC only,117582
+09/30/2030 12:00:00 AM,M,(n) KC & VNE,14021
+09/30/2030 12:00:00 AM,M,(o) Between KC & VNE,426276
+09/30/2030 12:00:00 AM,M,(p) VNE only,3459277
+09/30/2030 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,178352
+09/30/2030 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",42463
+09/30/2030 12:00:00 AM,M,(t) Between VNE & GW Era,2177794
+09/30/2030 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2104497
+09/30/2030 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1262338
+09/30/2030 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3790725
+09/30/2030 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,34757
+09/30/2030 12:00:00 AM,M,(x) Post-GW Era,412334
+09/30/2030 12:00:00 AM,M,(a) All Veterans (b+c),14030021
+09/30/2030 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),11010534
+09/30/2030 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3019487
+09/30/2030 12:00:00 AM,M,(d) WW II (i+j+k),6522
+09/30/2030 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),132438
+09/30/2030 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),3729124
+09/30/2030 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7413132
+09/30/2031 12:00:00 AM,F,(h) Pre-WWII,1
+09/30/2031 12:00:00 AM,F,(i) WWII only,254
+09/30/2031 12:00:00 AM,F,(j) WWII & KC,17
+09/30/2031 12:00:00 AM,F,"(k) WWII, KC, VNE",16
+09/30/2031 12:00:00 AM,F,(l) Between WWII & KC,255
+09/30/2031 12:00:00 AM,F,(m) KC only,4184
+09/30/2031 12:00:00 AM,F,(n) KC & VNE,380
+09/30/2031 12:00:00 AM,F,(o) Between KC & VNE,17818
+09/30/2031 12:00:00 AM,F,(p) VNE only,162348
+09/30/2031 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,12346
+09/30/2031 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2666
+09/30/2031 12:00:00 AM,F,(t) Between VNE & GW Era,331297
+09/30/2031 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,406734
+09/30/2031 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,235149
+09/30/2031 12:00:00 AM,F,(w) GW Era - Post 9/11 only,867618
+09/30/2031 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3357
+09/30/2031 12:00:00 AM,F,(x) Post-GW Era,121419
+09/30/2031 12:00:00 AM,F,(a) All Veterans (b+c),2165884
+09/30/2031 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1695070
+09/30/2031 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),470790
+09/30/2031 12:00:00 AM,F,(d) WW II (i+j+k),288
+09/30/2031 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),4598
+09/30/2031 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),181114
+09/30/2031 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1527869
+09/30/2031 12:00:00 AM,M,(h) Pre-WWII,17
+09/30/2031 12:00:00 AM,M,(i) WWII only,3467
+09/30/2031 12:00:00 AM,M,(j) WWII & KC,369
+09/30/2031 12:00:00 AM,M,"(k) WWII, KC, VNE",160
+09/30/2031 12:00:00 AM,M,(l) Between WWII & KC,2075
+09/30/2031 12:00:00 AM,M,(m) KC only,86606
+09/30/2031 12:00:00 AM,M,(n) KC & VNE,10562
+09/30/2031 12:00:00 AM,M,(o) Between KC & VNE,358793
+09/30/2031 12:00:00 AM,M,(p) VNE only,3223870
+09/30/2031 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,168704
+09/30/2031 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",40249
+09/30/2031 12:00:00 AM,M,(t) Between VNE & GW Era,2129444
+09/30/2031 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2077398
+09/30/2031 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1248365
+09/30/2031 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3821868
+09/30/2031 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,32587
+09/30/2031 12:00:00 AM,M,(x) Post-GW Era,525448
+09/30/2031 12:00:00 AM,M,(a) All Veterans (b+c),13729985
+09/30/2031 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),10714206
+09/30/2031 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3015778
+09/30/2031 12:00:00 AM,M,(d) WW II (i+j+k),3996
+09/30/2031 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),97698
+09/30/2031 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),3476132
+09/30/2031 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7389172
+09/30/2032 12:00:00 AM,F,(h) Pre-WWII,1
+09/30/2032 12:00:00 AM,F,(i) WWII only,156
+09/30/2032 12:00:00 AM,F,(j) WWII & KC,11
+09/30/2032 12:00:00 AM,F,"(k) WWII, KC, VNE",11
+09/30/2032 12:00:00 AM,F,(l) Between WWII & KC,191
+09/30/2032 12:00:00 AM,F,(m) KC only,3227
+09/30/2032 12:00:00 AM,F,(n) KC & VNE,297
+09/30/2032 12:00:00 AM,F,(o) Between KC & VNE,15422
+09/30/2032 12:00:00 AM,F,(p) VNE only,154294
+09/30/2032 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,11864
+09/30/2032 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2562
+09/30/2032 12:00:00 AM,F,(t) Between VNE & GW Era,325263
+09/30/2032 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,403199
+09/30/2032 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,233281
+09/30/2032 12:00:00 AM,F,(w) GW Era - Post 9/11 only,873027
+09/30/2032 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3191
+09/30/2032 12:00:00 AM,F,(x) Post-GW Era,148125
+09/30/2032 12:00:00 AM,F,(a) All Veterans (b+c),2174143
+09/30/2032 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1685119
+09/30/2032 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),489003
+09/30/2032 12:00:00 AM,F,(d) WW II (i+j+k),178
+09/30/2032 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),3546
+09/30/2032 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),172217
+09/30/2032 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1527123
+09/30/2032 12:00:00 AM,M,(h) Pre-WWII,9
+09/30/2032 12:00:00 AM,M,(i) WWII only,2067
+09/30/2032 12:00:00 AM,M,(j) WWII & KC,229
+09/30/2032 12:00:00 AM,M,"(k) WWII, KC, VNE",99
+09/30/2032 12:00:00 AM,M,(l) Between WWII & KC,1385
+09/30/2032 12:00:00 AM,M,(m) KC only,62629
+09/30/2032 12:00:00 AM,M,(n) KC & VNE,7807
+09/30/2032 12:00:00 AM,M,(o) Between KC & VNE,297601
+09/30/2032 12:00:00 AM,M,(p) VNE only,2986145
+09/30/2032 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,158834
+09/30/2032 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",37974
+09/30/2032 12:00:00 AM,M,(t) Between VNE & GW Era,2079152
+09/30/2032 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2048995
+09/30/2032 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1233400
+09/30/2032 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3848270
+09/30/2032 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,30402
+09/30/2032 12:00:00 AM,M,(x) Post-GW Era,643156
+09/30/2032 12:00:00 AM,M,(a) All Veterans (b+c),13438155
+09/30/2032 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),10416852
+09/30/2032 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3021303
+09/30/2032 12:00:00 AM,M,(d) WW II (i+j+k),2395
+09/30/2032 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),70765
+09/30/2032 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),3221261
+09/30/2032 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7357875
+09/30/2033 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2033 12:00:00 AM,F,(i) WWII only,93
+09/30/2033 12:00:00 AM,F,(j) WWII & KC,7
+09/30/2033 12:00:00 AM,F,"(k) WWII, KC, VNE",7
+09/30/2033 12:00:00 AM,F,(l) Between WWII & KC,140
+09/30/2033 12:00:00 AM,F,(m) KC only,2450
+09/30/2033 12:00:00 AM,F,(n) KC & VNE,227
+09/30/2033 12:00:00 AM,F,(o) Between KC & VNE,13182
+09/30/2033 12:00:00 AM,F,(p) VNE only,145981
+09/30/2033 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,11356
+09/30/2033 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2452
+09/30/2033 12:00:00 AM,F,(t) Between VNE & GW Era,318864
+09/30/2033 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,399425
+09/30/2033 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,231269
+09/30/2033 12:00:00 AM,F,(w) GW Era - Post 9/11 only,877779
+09/30/2033 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,3020
+09/30/2033 12:00:00 AM,F,(x) Post-GW Era,175555
+09/30/2033 12:00:00 AM,F,(a) All Veterans (b+c),2181828
+09/30/2033 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1674067
+09/30/2033 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),507742
+09/30/2033 12:00:00 AM,F,(d) WW II (i+j+k),107
+09/30/2033 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),2691
+09/30/2033 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),163043
+09/30/2033 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1525302
+09/30/2033 12:00:00 AM,M,(h) Pre-WWII,5
+09/30/2033 12:00:00 AM,M,(i) WWII only,1204
+09/30/2033 12:00:00 AM,M,(j) WWII & KC,139
+09/30/2033 12:00:00 AM,M,"(k) WWII, KC, VNE",60
+09/30/2033 12:00:00 AM,M,(l) Between WWII & KC,906
+09/30/2033 12:00:00 AM,M,(m) KC only,44471
+09/30/2033 12:00:00 AM,M,(n) KC & VNE,5662
+09/30/2033 12:00:00 AM,M,(o) Between KC & VNE,243077
+09/30/2033 12:00:00 AM,M,(p) VNE only,2747636
+09/30/2033 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,148784
+09/30/2033 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",35645
+09/30/2033 12:00:00 AM,M,(t) Between VNE & GW Era,2026784
+09/30/2033 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,2019256
+09/30/2033 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1217573
+09/30/2033 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3871856
+09/30/2033 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,28212
+09/30/2033 12:00:00 AM,M,(x) Post-GW Era,764052
+09/30/2033 12:00:00 AM,M,(a) All Veterans (b+c),13155320
+09/30/2033 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),10120496
+09/30/2033 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3034824
+09/30/2033 12:00:00 AM,M,(d) WW II (i+j+k),1402
+09/30/2033 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),50331
+09/30/2033 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),2965998
+09/30/2033 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7321325
+09/30/2034 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2034 12:00:00 AM,F,(i) WWII only,55
+09/30/2034 12:00:00 AM,F,(j) WWII & KC,4
+09/30/2034 12:00:00 AM,F,"(k) WWII, KC, VNE",4
+09/30/2034 12:00:00 AM,F,(l) Between WWII & KC,101
+09/30/2034 12:00:00 AM,F,(m) KC only,1829
+09/30/2034 12:00:00 AM,F,(n) KC & VNE,171
+09/30/2034 12:00:00 AM,F,(o) Between KC & VNE,11123
+09/30/2034 12:00:00 AM,F,(p) VNE only,137442
+09/30/2034 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,10825
+09/30/2034 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2338
+09/30/2034 12:00:00 AM,F,(t) Between VNE & GW Era,312076
+09/30/2034 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,395399
+09/30/2034 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,229109
+09/30/2034 12:00:00 AM,F,(w) GW Era - Post 9/11 only,881444
+09/30/2034 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,2845
+09/30/2034 12:00:00 AM,F,(x) Post-GW Era,203652
+09/30/2034 12:00:00 AM,F,(a) All Veterans (b+c),2188434
+09/30/2034 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1661465
+09/30/2034 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),526953
+09/30/2034 12:00:00 AM,F,(d) WW II (i+j+k),63
+09/30/2034 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),2009
+09/30/2034 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),153625
+09/30/2034 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1521959
+09/30/2034 12:00:00 AM,M,(h) Pre-WWII,3
+09/30/2034 12:00:00 AM,M,(i) WWII only,684
+09/30/2034 12:00:00 AM,M,(j) WWII & KC,82
+09/30/2034 12:00:00 AM,M,"(k) WWII, KC, VNE",35
+09/30/2034 12:00:00 AM,M,(l) Between WWII & KC,580
+09/30/2034 12:00:00 AM,M,(m) KC only,31007
+09/30/2034 12:00:00 AM,M,(n) KC & VNE,4029
+09/30/2034 12:00:00 AM,M,(o) Between KC & VNE,195391
+09/30/2034 12:00:00 AM,M,(p) VNE only,2510155
+09/30/2034 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,138599
+09/30/2034 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",33274
+09/30/2034 12:00:00 AM,M,(t) Between VNE & GW Era,1972212
+09/30/2034 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1988130
+09/30/2034 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1200892
+09/30/2034 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3889723
+09/30/2034 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,26030
+09/30/2034 12:00:00 AM,M,(x) Post-GW Era,887917
+09/30/2034 12:00:00 AM,M,(a) All Veterans (b+c),12878743
+09/30/2034 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),9822640
+09/30/2034 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3056103
+09/30/2034 12:00:00 AM,M,(d) WW II (i+j+k),801
+09/30/2034 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),35153
+09/30/2034 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),2712122
+09/30/2034 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7276648
+09/30/2035 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2035 12:00:00 AM,F,(i) WWII only,31
+09/30/2035 12:00:00 AM,F,(j) WWII & KC,3
+09/30/2035 12:00:00 AM,F,"(k) WWII, KC, VNE",3
+09/30/2035 12:00:00 AM,F,(l) Between WWII & KC,72
+09/30/2035 12:00:00 AM,F,(m) KC only,1342
+09/30/2035 12:00:00 AM,F,(n) KC & VNE,126
+09/30/2035 12:00:00 AM,F,(o) Between KC & VNE,9259
+09/30/2035 12:00:00 AM,F,(p) VNE only,128718
+09/30/2035 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,10269
+09/30/2035 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2218
+09/30/2035 12:00:00 AM,F,(t) Between VNE & GW Era,304872
+09/30/2035 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,391101
+09/30/2035 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,226797
+09/30/2035 12:00:00 AM,F,(w) GW Era - Post 9/11 only,884365
+09/30/2035 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,2666
+09/30/2035 12:00:00 AM,F,(x) Post-GW Era,232133
+09/30/2035 12:00:00 AM,F,(a) All Veterans (b+c),2193992
+09/30/2035 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1647641
+09/30/2035 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),546336
+09/30/2035 12:00:00 AM,F,(d) WW II (i+j+k),37
+09/30/2035 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),1474
+09/30/2035 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),144001
+09/30/2035 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1517417
+09/30/2035 12:00:00 AM,M,(h) Pre-WWII,1
+09/30/2035 12:00:00 AM,M,(i) WWII only,378
+09/30/2035 12:00:00 AM,M,(j) WWII & KC,47
+09/30/2035 12:00:00 AM,M,"(k) WWII, KC, VNE",20
+09/30/2035 12:00:00 AM,M,(l) Between WWII & KC,364
+09/30/2035 12:00:00 AM,M,(m) KC only,21229
+09/30/2035 12:00:00 AM,M,(n) KC & VNE,2814
+09/30/2035 12:00:00 AM,M,(o) Between KC & VNE,154489
+09/30/2035 12:00:00 AM,M,(p) VNE only,2275710
+09/30/2035 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,128336
+09/30/2035 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",30874
+09/30/2035 12:00:00 AM,M,(t) Between VNE & GW Era,1915304
+09/30/2035 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1955578
+09/30/2035 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1183356
+09/30/2035 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3903479
+09/30/2035 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,23867
+09/30/2035 12:00:00 AM,M,(x) Post-GW Era,1013492
+09/30/2035 12:00:00 AM,M,(a) All Veterans (b+c),12609337
+09/30/2035 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),9525687
+09/30/2035 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3083651
+09/30/2035 12:00:00 AM,M,(d) WW II (i+j+k),445
+09/30/2035 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),24111
+09/30/2035 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),2461620
+09/30/2035 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7225489
+09/30/2036 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2036 12:00:00 AM,F,(i) WWII only,18
+09/30/2036 12:00:00 AM,F,(j) WWII & KC,2
+09/30/2036 12:00:00 AM,F,"(k) WWII, KC, VNE",2
+09/30/2036 12:00:00 AM,F,(l) Between WWII & KC,50
+09/30/2036 12:00:00 AM,F,(m) KC only,969
+09/30/2036 12:00:00 AM,F,(n) KC & VNE,92
+09/30/2036 12:00:00 AM,F,(o) Between KC & VNE,7601
+09/30/2036 12:00:00 AM,F,(p) VNE only,119857
+09/30/2036 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,9692
+09/30/2036 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",2094
+09/30/2036 12:00:00 AM,F,(t) Between VNE & GW Era,297230
+09/30/2036 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,386511
+09/30/2036 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,224322
+09/30/2036 12:00:00 AM,F,(w) GW Era - Post 9/11 only,886719
+09/30/2036 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,2485
+09/30/2036 12:00:00 AM,F,(x) Post-GW Era,260951
+09/30/2036 12:00:00 AM,F,(a) All Veterans (b+c),2198606
+09/30/2036 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1632762
+09/30/2036 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),565831
+09/30/2036 12:00:00 AM,F,(d) WW II (i+j+k),21
+09/30/2036 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),1063
+09/30/2036 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),134222
+09/30/2036 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1511824
+09/30/2036 12:00:00 AM,M,(h) Pre-WWII,1
+09/30/2036 12:00:00 AM,M,(i) WWII only,203
+09/30/2036 12:00:00 AM,M,(j) WWII & KC,26
+09/30/2036 12:00:00 AM,M,"(k) WWII, KC, VNE",11
+09/30/2036 12:00:00 AM,M,(l) Between WWII & KC,223
+09/30/2036 12:00:00 AM,M,(m) KC only,14271
+09/30/2036 12:00:00 AM,M,(n) KC & VNE,1930
+09/30/2036 12:00:00 AM,M,(o) Between KC & VNE,120102
+09/30/2036 12:00:00 AM,M,(p) VNE only,2046362
+09/30/2036 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,118051
+09/30/2036 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",28459
+09/30/2036 12:00:00 AM,M,(t) Between VNE & GW Era,1855958
+09/30/2036 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1921565
+09/30/2036 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1164885
+09/30/2036 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3914104
+09/30/2036 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,21737
+09/30/2036 12:00:00 AM,M,(x) Post-GW Era,1140570
+09/30/2036 12:00:00 AM,M,(a) All Veterans (b+c),12348457
+09/30/2036 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),9231603
+09/30/2036 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3116854
+09/30/2036 12:00:00 AM,M,(d) WW II (i+j+k),240
+09/30/2036 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),16238
+09/30/2036 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),2216551
+09/30/2036 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7168800
+09/30/2037 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2037 12:00:00 AM,F,(i) WWII only,10
+09/30/2037 12:00:00 AM,F,(j) WWII & KC,1
+09/30/2037 12:00:00 AM,F,"(k) WWII, KC, VNE",1
+09/30/2037 12:00:00 AM,F,(l) Between WWII & KC,34
+09/30/2037 12:00:00 AM,F,(m) KC only,687
+09/30/2037 12:00:00 AM,F,(n) KC & VNE,65
+09/30/2037 12:00:00 AM,F,(o) Between KC & VNE,6152
+09/30/2037 12:00:00 AM,F,(p) VNE only,110913
+09/30/2037 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,9095
+09/30/2037 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1967
+09/30/2037 12:00:00 AM,F,(t) Between VNE & GW Era,289130
+09/30/2037 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,381607
+09/30/2037 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,221686
+09/30/2037 12:00:00 AM,F,(w) GW Era - Post 9/11 only,888629
+09/30/2037 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,2302
+09/30/2037 12:00:00 AM,F,(x) Post-GW Era,290005
+09/30/2037 12:00:00 AM,F,(a) All Veterans (b+c),2202292
+09/30/2037 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1616961
+09/30/2037 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),585321
+09/30/2037 12:00:00 AM,F,(d) WW II (i+j+k),11
+09/30/2037 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),754
+09/30/2037 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),124343
+09/30/2037 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1505285
+09/30/2037 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2037 12:00:00 AM,M,(i) WWII only,106
+09/30/2037 12:00:00 AM,M,(j) WWII & KC,14
+09/30/2037 12:00:00 AM,M,"(k) WWII, KC, VNE",6
+09/30/2037 12:00:00 AM,M,(l) Between WWII & KC,133
+09/30/2037 12:00:00 AM,M,(m) KC only,9416
+09/30/2037 12:00:00 AM,M,(n) KC & VNE,1299
+09/30/2037 12:00:00 AM,M,(o) Between KC & VNE,91781
+09/30/2037 12:00:00 AM,M,(p) VNE only,1824181
+09/30/2037 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,107808
+09/30/2037 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",26045
+09/30/2037 12:00:00 AM,M,(t) Between VNE & GW Era,1794101
+09/30/2037 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1886027
+09/30/2037 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1145525
+09/30/2037 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3922145
+09/30/2037 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,19654
+09/30/2037 12:00:00 AM,M,(x) Post-GW Era,1268691
+09/30/2037 12:00:00 AM,M,(a) All Veterans (b+c),12096933
+09/30/2037 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),8942226
+09/30/2037 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3154707
+09/30/2037 12:00:00 AM,M,(d) WW II (i+j+k),126
+09/30/2037 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),10735
+09/30/2037 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),1978994
+09/30/2037 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7107204
+09/30/2038 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2038 12:00:00 AM,F,(i) WWII only,5
+09/30/2038 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2038 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2038 12:00:00 AM,F,(l) Between WWII & KC,22
+09/30/2038 12:00:00 AM,F,(m) KC only,478
+09/30/2038 12:00:00 AM,F,(n) KC & VNE,46
+09/30/2038 12:00:00 AM,F,(o) Between KC & VNE,4908
+09/30/2038 12:00:00 AM,F,(p) VNE only,101945
+09/30/2038 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,8481
+09/30/2038 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1836
+09/30/2038 12:00:00 AM,F,(t) Between VNE & GW Era,280560
+09/30/2038 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,376368
+09/30/2038 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,218877
+09/30/2038 12:00:00 AM,F,(w) GW Era - Post 9/11 only,890197
+09/30/2038 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,2118
+09/30/2038 12:00:00 AM,F,(x) Post-GW Era,319144
+09/30/2038 12:00:00 AM,F,(a) All Veterans (b+c),2204996
+09/30/2038 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1600352
+09/30/2038 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),604635
+09/30/2038 12:00:00 AM,F,(d) WW II (i+j+k),6
+09/30/2038 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),525
+09/30/2038 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),114426
+09/30/2038 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1497877
+09/30/2038 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2038 12:00:00 AM,M,(i) WWII only,53
+09/30/2038 12:00:00 AM,M,(j) WWII & KC,7
+09/30/2038 12:00:00 AM,M,"(k) WWII, KC, VNE",3
+09/30/2038 12:00:00 AM,M,(l) Between WWII & KC,77
+09/30/2038 12:00:00 AM,M,(m) KC only,6095
+09/30/2038 12:00:00 AM,M,(n) KC & VNE,859
+09/30/2038 12:00:00 AM,M,(o) Between KC & VNE,68939
+09/30/2038 12:00:00 AM,M,(p) VNE only,1611181
+09/30/2038 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,97673
+09/30/2038 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",23648
+09/30/2038 12:00:00 AM,M,(t) Between VNE & GW Era,1729669
+09/30/2038 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1848903
+09/30/2038 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1125272
+09/30/2038 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3928045
+09/30/2038 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,17632
+09/30/2038 12:00:00 AM,M,(x) Post-GW Era,1397150
+09/30/2038 12:00:00 AM,M,(a) All Veterans (b+c),11855207
+09/30/2038 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),8659372
+09/30/2038 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3195836
+09/30/2038 12:00:00 AM,M,(d) WW II (i+j+k),64
+09/30/2038 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),6964
+09/30/2038 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),1750997
+09/30/2038 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),7041174
+09/30/2039 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2039 12:00:00 AM,F,(i) WWII only,3
+09/30/2039 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2039 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2039 12:00:00 AM,F,(l) Between WWII & KC,14
+09/30/2039 12:00:00 AM,F,(m) KC only,326
+09/30/2039 12:00:00 AM,F,(n) KC & VNE,31
+09/30/2039 12:00:00 AM,F,(o) Between KC & VNE,3859
+09/30/2039 12:00:00 AM,F,(p) VNE only,93020
+09/30/2039 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,7852
+09/30/2039 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1702
+09/30/2039 12:00:00 AM,F,(t) Between VNE & GW Era,271507
+09/30/2039 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,370779
+09/30/2039 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,215894
+09/30/2039 12:00:00 AM,F,(w) GW Era - Post 9/11 only,891571
+09/30/2039 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,1934
+09/30/2039 12:00:00 AM,F,(x) Post-GW Era,348358
+09/30/2039 12:00:00 AM,F,(a) All Veterans (b+c),2206859
+09/30/2039 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1583113
+09/30/2039 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),623738
+09/30/2039 12:00:00 AM,F,(d) WW II (i+j+k),3
+09/30/2039 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),358
+09/30/2039 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),104540
+09/30/2039 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1489732
+09/30/2039 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2039 12:00:00 AM,M,(i) WWII only,26
+09/30/2039 12:00:00 AM,M,(j) WWII & KC,4
+09/30/2039 12:00:00 AM,M,"(k) WWII, KC, VNE",2
+09/30/2039 12:00:00 AM,M,(l) Between WWII & KC,44
+09/30/2039 12:00:00 AM,M,(m) KC only,3867
+09/30/2039 12:00:00 AM,M,(n) KC & VNE,556
+09/30/2044 12:00:00 AM,F,(x) Post-GW Era,496788
+09/30/2039 12:00:00 AM,M,(o) Between KC & VNE,50899
+09/30/2039 12:00:00 AM,M,(p) VNE only,1409242
+09/30/2039 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,87725
+09/30/2039 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",21288
+09/30/2039 12:00:00 AM,M,(t) Between VNE & GW Era,1662597
+09/30/2039 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1810152
+09/30/2039 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1104086
+09/30/2039 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3932734
+09/30/2039 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,15685
+09/30/2039 12:00:00 AM,M,(x) Post-GW Era,1525905
+09/30/2039 12:00:00 AM,M,(a) All Veterans (b+c),11624811
+09/30/2039 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),8385366
+09/30/2039 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3239445
+09/30/2039 12:00:00 AM,M,(d) WW II (i+j+k),31
+09/30/2039 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),4428
+09/30/2039 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),1534498
+09/30/2039 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6971670
+09/30/2040 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2040 12:00:00 AM,F,(i) WWII only,1
+09/30/2040 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2040 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2040 12:00:00 AM,F,(l) Between WWII & KC,9
+09/30/2040 12:00:00 AM,F,(m) KC only,219
+09/30/2040 12:00:00 AM,F,(n) KC & VNE,21
+09/30/2040 12:00:00 AM,F,(o) Between KC & VNE,2990
+09/30/2040 12:00:00 AM,F,(p) VNE only,84208
+09/30/2040 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,7212
+09/30/2040 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1567
+09/30/2040 12:00:00 AM,F,(t) Between VNE & GW Era,261971
+09/30/2040 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,364827
+09/30/2040 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,212724
+09/30/2040 12:00:00 AM,F,(w) GW Era - Post 9/11 only,892597
+09/30/2040 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,1751
+09/30/2040 12:00:00 AM,F,(x) Post-GW Era,377647
+09/30/2040 12:00:00 AM,F,(a) All Veterans (b+c),2207754
+09/30/2040 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1565129
+09/30/2040 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),642618
+09/30/2040 12:00:00 AM,F,(d) WW II (i+j+k),2
+09/30/2040 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),240
+09/30/2040 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),94760
+09/30/2040 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1480679
+09/30/2040 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2040 12:00:00 AM,M,(i) WWII only,12
+09/30/2040 12:00:00 AM,M,(j) WWII & KC,2
+09/30/2040 12:00:00 AM,M,"(k) WWII, KC, VNE",1
+09/30/2040 12:00:00 AM,M,(l) Between WWII & KC,24
+09/30/2040 12:00:00 AM,M,(m) KC only,2403
+09/30/2040 12:00:00 AM,M,(n) KC & VNE,353
+09/30/2040 12:00:00 AM,M,(o) Between KC & VNE,36947
+09/30/2040 12:00:00 AM,M,(p) VNE only,1220045
+09/30/2040 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,78049
+09/30/2040 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",18985
+09/30/2040 12:00:00 AM,M,(t) Between VNE & GW Era,1592819
+09/30/2040 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1769720
+09/30/2040 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1081936
+09/30/2040 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3935288
+09/30/2040 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,13827
+09/30/2040 12:00:00 AM,M,(x) Post-GW Era,1654964
+09/30/2040 12:00:00 AM,M,(a) All Veterans (b+c),11405375
+09/30/2040 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),8120620
+09/30/2040 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3284755
+09/30/2040 12:00:00 AM,M,(d) WW II (i+j+k),15
+09/30/2040 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),2758
+09/30/2040 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),1331260
+09/30/2040 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6897805
+09/30/2041 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2041 12:00:00 AM,F,(i) WWII only,1
+09/30/2041 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2041 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2041 12:00:00 AM,F,(l) Between WWII & KC,5
+09/30/2041 12:00:00 AM,F,(m) KC only,144
+09/30/2041 12:00:00 AM,F,(n) KC & VNE,14
+09/30/2041 12:00:00 AM,F,(o) Between KC & VNE,2283
+09/30/2041 12:00:00 AM,F,(p) VNE only,75586
+09/30/2041 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,6567
+09/30/2041 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1432
+09/30/2041 12:00:00 AM,F,(t) Between VNE & GW Era,251944
+09/30/2041 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,358503
+09/30/2041 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,209360
+09/30/2041 12:00:00 AM,F,(w) GW Era - Post 9/11 only,893299
+09/30/2041 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,1572
+09/30/2041 12:00:00 AM,F,(x) Post-GW Era,406999
+09/30/2041 12:00:00 AM,F,(a) All Veterans (b+c),2207715
+09/30/2041 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1546477
+09/30/2041 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),661232
+09/30/2041 12:00:00 AM,F,(d) WW II (i+j+k),1
+09/30/2041 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),157
+09/30/2041 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),85171
+09/30/2041 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1470733
+09/30/2041 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2041 12:00:00 AM,M,(i) WWII only,5
+09/30/2041 12:00:00 AM,M,(j) WWII & KC,1
+09/30/2041 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2041 12:00:00 AM,M,(l) Between WWII & KC,13
+09/30/2041 12:00:00 AM,M,(m) KC only,1460
+09/30/2041 12:00:00 AM,M,(n) KC & VNE,219
+09/30/2041 12:00:00 AM,M,(o) Between KC & VNE,26373
+09/30/2041 12:00:00 AM,M,(p) VNE only,1045007
+09/30/2041 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,68738
+09/30/2041 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",16763
+09/30/2041 12:00:00 AM,M,(t) Between VNE & GW Era,1520284
+09/30/2041 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1727536
+09/30/2041 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1058775
+09/30/2041 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3935845
+09/30/2041 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,12071
+09/30/2041 12:00:00 AM,M,(x) Post-GW Era,1784276
+09/30/2041 12:00:00 AM,M,(a) All Veterans (b+c),11197364
+09/30/2041 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),7866419
+09/30/2041 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3330945
+09/30/2041 12:00:00 AM,M,(d) WW II (i+j+k),7
+09/30/2041 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),1680
+09/30/2041 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),1142797
+09/30/2041 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6819726
+09/30/2042 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2042 12:00:00 AM,F,(i) WWII only,0
+09/30/2042 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2042 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2042 12:00:00 AM,F,(l) Between WWII & KC,3
+09/30/2042 12:00:00 AM,F,(m) KC only,92
+09/30/2042 12:00:00 AM,F,(n) KC & VNE,9
+09/30/2042 12:00:00 AM,F,(o) Between KC & VNE,1718
+09/30/2042 12:00:00 AM,F,(p) VNE only,67231
+09/30/2042 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,5924
+09/30/2042 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1298
+09/30/2042 12:00:00 AM,F,(t) Between VNE & GW Era,241425
+09/30/2042 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,351796
+09/30/2042 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,205790
+09/30/2042 12:00:00 AM,F,(w) GW Era - Post 9/11 only,893684
+09/30/2042 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,1398
+09/30/2042 12:00:00 AM,F,(x) Post-GW Era,436400
+09/30/2042 12:00:00 AM,F,(a) All Veterans (b+c),2206773
+09/30/2042 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1527223
+09/30/2042 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),679545
+09/30/2042 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2042 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),101
+09/30/2042 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),75859
+09/30/2042 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1459891
+09/30/2042 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2042 12:00:00 AM,M,(i) WWII only,2
+09/30/2042 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2042 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2042 12:00:00 AM,M,(l) Between WWII & KC,7
+09/30/2042 12:00:00 AM,M,(m) KC only,867
+09/30/2042 12:00:00 AM,M,(n) KC & VNE,133
+09/30/2042 12:00:00 AM,M,(o) Between KC & VNE,18513
+09/30/2042 12:00:00 AM,M,(p) VNE only,885219
+09/30/2042 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,59884
+09/30/2042 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",14642
+09/30/2042 12:00:00 AM,M,(t) Between VNE & GW Era,1444974
+09/30/2042 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1683534
+09/30/2042 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1034555
+09/30/2042 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3934449
+09/30/2042 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,10429
+09/30/2042 12:00:00 AM,M,(x) Post-GW Era,1913773
+09/30/2042 12:00:00 AM,M,(a) All Veterans (b+c),11000982
+09/30/2042 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),7623715
+09/30/2042 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3377267
+09/30/2042 12:00:00 AM,M,(d) WW II (i+j+k),3
+09/30/2042 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),1000
+09/30/2042 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),970308
+09/30/2042 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6737493
+09/30/2043 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2043 12:00:00 AM,F,(i) WWII only,0
+09/30/2043 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2043 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2043 12:00:00 AM,F,(l) Between WWII & KC,2
+09/30/2043 12:00:00 AM,F,(m) KC only,58
+09/30/2043 12:00:00 AM,F,(n) KC & VNE,5
+09/30/2043 12:00:00 AM,F,(o) Between KC & VNE,1273
+09/30/2043 12:00:00 AM,F,(p) VNE only,59223
+09/30/2043 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,5289
+09/30/2043 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1166
+09/30/2043 12:00:00 AM,F,(t) Between VNE & GW Era,230419
+09/30/2043 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,344692
+09/30/2043 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,202005
+09/30/2043 12:00:00 AM,F,(w) GW Era - Post 9/11 only,893781
+09/30/2043 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,1230
+09/30/2043 12:00:00 AM,F,(x) Post-GW Era,465848
+09/30/2043 12:00:00 AM,F,(a) All Veterans (b+c),2204994
+09/30/2043 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1507450
+09/30/2043 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),697541
+09/30/2043 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2043 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),63
+09/30/2043 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),66914
+09/30/2043 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1448163
+09/30/2043 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2043 12:00:00 AM,M,(i) WWII only,1
+09/30/2043 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2043 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2043 12:00:00 AM,M,(l) Between WWII & KC,3
+09/30/2043 12:00:00 AM,M,(m) KC only,503
+09/30/2043 12:00:00 AM,M,(n) KC & VNE,79
+09/30/2043 12:00:00 AM,M,(o) Between KC & VNE,12780
+09/30/2043 12:00:00 AM,M,(p) VNE only,741385
+09/30/2043 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,51577
+09/30/2043 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",12645
+09/30/2043 12:00:00 AM,M,(t) Between VNE & GW Era,1366947
+09/30/2043 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1637635
+09/30/2043 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1009245
+09/30/2043 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3931268
+09/30/2043 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,8913
+09/30/2043 12:00:00 AM,M,(x) Post-GW Era,2043450
+09/30/2043 12:00:00 AM,M,(a) All Veterans (b+c),10816430
+09/30/2043 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),7393249
+09/30/2043 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3423181
+09/30/2043 12:00:00 AM,M,(d) WW II (i+j+k),1
+09/30/2043 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),581
+09/30/2043 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),814598
+09/30/2043 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6651281
+09/30/2044 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2044 12:00:00 AM,F,(i) WWII only,0
+09/30/2044 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2044 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2044 12:00:00 AM,F,(l) Between WWII & KC,1
+09/30/2044 12:00:00 AM,F,(m) KC only,36
+09/30/2044 12:00:00 AM,F,(n) KC & VNE,3
+09/30/2044 12:00:00 AM,F,(o) Between KC & VNE,928
+09/30/2044 12:00:00 AM,F,(p) VNE only,51635
+09/30/2044 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,4671
+09/30/2044 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",1038
+09/30/2044 12:00:00 AM,F,(t) Between VNE & GW Era,218943
+09/30/2044 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,337164
+09/30/2044 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,198003
+09/30/2044 12:00:00 AM,F,(w) GW Era - Post 9/11 only,892044
+09/30/2044 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,1071
+09/30/2044 12:00:00 AM,F,(a) All Veterans (b+c),2202328
+09/30/2044 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1485664
+09/30/2044 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),716660
+09/30/2044 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2044 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),39
+09/30/2044 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),58418
+09/30/2044 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1433990
+09/30/2044 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2044 12:00:00 AM,M,(i) WWII only,0
+09/30/2044 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2044 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2044 12:00:00 AM,M,(l) Between WWII & KC,2
+09/30/2044 12:00:00 AM,M,(m) KC only,284
+09/30/2044 12:00:00 AM,M,(n) KC & VNE,45
+09/30/2044 12:00:00 AM,M,(o) Between KC & VNE,8673
+09/30/2044 12:00:00 AM,M,(p) VNE only,613743
+09/30/2044 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,43887
+09/30/2044 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",10790
+09/30/2044 12:00:00 AM,M,(t) Between VNE & GW Era,1286380
+09/30/2044 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1589797
+09/30/2044 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,982805
+09/30/2044 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3917287
+09/30/2044 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,7530
+09/30/2044 12:00:00 AM,M,(x) Post-GW Era,2181775
+09/30/2044 12:00:00 AM,M,(a) All Veterans (b+c),10642999
+09/30/2044 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),7166169
+09/30/2044 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3476830
+09/30/2044 12:00:00 AM,M,(d) WW II (i+j+k),0
+09/30/2044 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),329
+09/30/2044 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),675995
+09/30/2044 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6552097
+09/30/2045 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2045 12:00:00 AM,F,(i) WWII only,0
+09/30/2045 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2045 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2045 12:00:00 AM,F,(l) Between WWII & KC,1
+09/30/2045 12:00:00 AM,F,(m) KC only,21
+09/30/2045 12:00:00 AM,F,(n) KC & VNE,2
+09/30/2045 12:00:00 AM,F,(o) Between KC & VNE,666
+09/30/2045 12:00:00 AM,F,(p) VNE only,44535
+09/30/2045 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,4078
+09/30/2045 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",915
+09/30/2045 12:00:00 AM,F,(t) Between VNE & GW Era,207025
+09/30/2045 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,329207
+09/30/2045 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,193766
+09/30/2045 12:00:00 AM,F,(w) GW Era - Post 9/11 only,889378
+09/30/2045 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,921
+09/30/2045 12:00:00 AM,F,(x) Post-GW Era,528324
+09/30/2045 12:00:00 AM,F,(a) All Veterans (b+c),2198842
+09/30/2045 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1462823
+09/30/2045 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),736016
+09/30/2045 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2045 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),23
+09/30/2045 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),50451
+09/30/2045 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1418265
+09/30/2045 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2045 12:00:00 AM,M,(i) WWII only,0
+09/30/2045 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2045 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2045 12:00:00 AM,M,(l) Between WWII & KC,1
+09/30/2045 12:00:00 AM,M,(m) KC only,156
+09/30/2045 12:00:00 AM,M,(n) KC & VNE,25
+09/30/2045 12:00:00 AM,M,(o) Between KC & VNE,5783
+09/30/2045 12:00:00 AM,M,(p) VNE only,502083
+09/30/2045 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,36870
+09/30/2045 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",9092
+09/30/2045 12:00:00 AM,M,(t) Between VNE & GW Era,1203583
+09/30/2045 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1539990
+09/30/2045 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,955210
+09/30/2045 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3897529
+09/30/2045 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,6286
+09/30/2045 12:00:00 AM,M,(x) Post-GW Era,2323836
+09/30/2045 12:00:00 AM,M,(a) All Veterans (b+c),10480445
+09/30/2045 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),6947242
+09/30/2045 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3533203
+09/30/2045 12:00:00 AM,M,(d) WW II (i+j+k),0
+09/30/2045 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),181
+09/30/2045 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),554357
+09/30/2045 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6444977
+09/30/2046 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2046 12:00:00 AM,F,(i) WWII only,0
+09/30/2046 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2046 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2046 12:00:00 AM,F,(l) Between WWII & KC,0
+09/30/2046 12:00:00 AM,F,(m) KC only,12
+09/30/2046 12:00:00 AM,F,(n) KC & VNE,1
+09/30/2046 12:00:00 AM,F,(o) Between KC & VNE,470
+09/30/2046 12:00:00 AM,F,(p) VNE only,37974
+09/30/2046 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,3517
+09/30/2046 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",797
+09/30/2046 12:00:00 AM,F,(t) Between VNE & GW Era,194714
+09/30/2046 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,320807
+09/30/2046 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,189296
+09/30/2046 12:00:00 AM,F,(w) GW Era - Post 9/11 only,886020
+09/30/2046 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,783
+09/30/2046 12:00:00 AM,F,(x) Post-GW Era,560210
+09/30/2046 12:00:00 AM,F,(a) All Veterans (b+c),2194603
+09/30/2046 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1439206
+09/30/2046 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),755395
+09/30/2046 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2046 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),13
+09/30/2046 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),43072
+09/30/2046 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1401219
+09/30/2046 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2046 12:00:00 AM,M,(i) WWII only,0
+09/30/2046 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2046 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2046 12:00:00 AM,M,(l) Between WWII & KC,0
+09/30/2046 12:00:00 AM,M,(m) KC only,83
+09/30/2046 12:00:00 AM,M,(n) KC & VNE,14
+09/30/2046 12:00:00 AM,M,(o) Between KC & VNE,3786
+09/30/2046 12:00:00 AM,M,(p) VNE only,405771
+09/30/2046 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,30560
+09/30/2046 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",7561
+09/30/2046 12:00:00 AM,M,(t) Between VNE & GW Era,1119006
+09/30/2046 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1488212
+09/30/2046 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,926453
+09/30/2046 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3873489
+09/30/2046 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,5180
+09/30/2046 12:00:00 AM,M,(x) Post-GW Era,2468123
+09/30/2046 12:00:00 AM,M,(a) All Veterans (b+c),10328238
+09/30/2046 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),6737323
+09/30/2046 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3590915
+09/30/2046 12:00:00 AM,M,(d) WW II (i+j+k),0
+09/30/2046 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),97
+09/30/2046 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),449086
+09/30/2046 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6331455
+09/30/2047 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2047 12:00:00 AM,F,(i) WWII only,0
+09/30/2047 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2047 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2047 12:00:00 AM,F,(l) Between WWII & KC,0
+09/30/2047 12:00:00 AM,F,(m) KC only,7
+09/30/2047 12:00:00 AM,F,(n) KC & VNE,1
+09/30/2047 12:00:00 AM,F,(o) Between KC & VNE,327
+09/30/2047 12:00:00 AM,F,(p) VNE only,31991
+09/30/2047 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,2993
+09/30/2047 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",687
+09/30/2047 12:00:00 AM,F,(t) Between VNE & GW Era,182072
+09/30/2047 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,311962
+09/30/2047 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,184578
+09/30/2047 12:00:00 AM,F,(w) GW Era - Post 9/11 only,882092
+09/30/2047 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,656
+09/30/2047 12:00:00 AM,F,(x) Post-GW Era,592314
+09/30/2047 12:00:00 AM,F,(a) All Veterans (b+c),2189681
+09/30/2047 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1414966
+09/30/2047 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),774712
+09/30/2047 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2047 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),8
+09/30/2047 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),36327
+09/30/2047 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1382968
+09/30/2047 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2047 12:00:00 AM,M,(i) WWII only,0
+09/30/2047 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2047 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2047 12:00:00 AM,M,(l) Between WWII & KC,0
+09/30/2047 12:00:00 AM,M,(m) KC only,43
+09/30/2047 12:00:00 AM,M,(n) KC & VNE,7
+09/30/2047 12:00:00 AM,M,(o) Between KC & VNE,2432
+09/30/2047 12:00:00 AM,M,(p) VNE only,323842
+09/30/2047 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,24970
+09/30/2047 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",6201
+09/30/2047 12:00:00 AM,M,(t) Between VNE & GW Era,1033221
+09/30/2047 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1434518
+09/30/2047 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,896536
+09/30/2047 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3846000
+09/30/2047 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,4212
+09/30/2047 12:00:00 AM,M,(x) Post-GW Era,2613755
+09/30/2047 12:00:00 AM,M,(a) All Veterans (b+c),10185736
+09/30/2047 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),6536328
+09/30/2047 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3649408
+09/30/2047 12:00:00 AM,M,(d) WW II (i+j+k),0
+09/30/2047 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),50
+09/30/2047 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),359231
+09/30/2047 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6212435
+09/30/2048 12:00:00 AM,F,(h) Pre-WWII,0
+09/30/2048 12:00:00 AM,F,(i) WWII only,0
+09/30/2048 12:00:00 AM,F,(j) WWII & KC,0
+09/30/2048 12:00:00 AM,F,"(k) WWII, KC, VNE",0
+09/30/2048 12:00:00 AM,F,(l) Between WWII & KC,0
+09/30/2048 12:00:00 AM,F,(m) KC only,4
+09/30/2048 12:00:00 AM,F,(n) KC & VNE,0
+09/30/2048 12:00:00 AM,F,(o) Between KC & VNE,223
+09/30/2048 12:00:00 AM,F,(p) VNE only,26610
+09/30/2048 12:00:00 AM,F,(q) VNE & GW Era - Pre 9/11,2511
+09/30/2048 12:00:00 AM,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",586
+09/30/2048 12:00:00 AM,F,(t) Between VNE & GW Era,169183
+09/30/2048 12:00:00 AM,F,(u) GW Era - Pre 9/11 only,302673
+09/30/2048 12:00:00 AM,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,179616
+09/30/2048 12:00:00 AM,F,(w) GW Era - Post 9/11 only,877584
+09/30/2048 12:00:00 AM,F,(s) VNE & GW Era - Post 9/11,543
+09/30/2048 12:00:00 AM,F,(x) Post-GW Era,624597
+09/30/2048 12:00:00 AM,F,(a) All Veterans (b+c),2184132
+09/30/2048 12:00:00 AM,F,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1390127
+09/30/2048 12:00:00 AM,F,(c) Peacetime Veterans (h+l+o+t+x),794003
+09/30/2048 12:00:00 AM,F,(d) WW II (i+j+k),0
+09/30/2048 12:00:00 AM,F,(e) Korean Conflict (j+k+m+n),4
+09/30/2048 12:00:00 AM,F,(f) Vietnam Era (k+n+p+q+r+s),30250
+09/30/2048 12:00:00 AM,F,(g) Gulf War Era (q+r+s+u+v+w),1363513
+09/30/2048 12:00:00 AM,M,(h) Pre-WWII,0
+09/30/2048 12:00:00 AM,M,(i) WWII only,0
+09/30/2048 12:00:00 AM,M,(j) WWII & KC,0
+09/30/2048 12:00:00 AM,M,"(k) WWII, KC, VNE",0
+09/30/2048 12:00:00 AM,M,(l) Between WWII & KC,0
+09/30/2048 12:00:00 AM,M,(m) KC only,22
+09/30/2048 12:00:00 AM,M,(n) KC & VNE,4
+09/30/2048 12:00:00 AM,M,(o) Between KC & VNE,1532
+09/30/2048 12:00:00 AM,M,(p) VNE only,255110
+09/30/2048 12:00:00 AM,M,(q) VNE & GW Era - Pre 9/11,20098
+09/30/2048 12:00:00 AM,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",5011
+09/30/2048 12:00:00 AM,M,(t) Between VNE & GW Era,946919
+09/30/2048 12:00:00 AM,M,(u) GW Era - Pre 9/11 only,1378987
+09/30/2048 12:00:00 AM,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,865472
+09/30/2048 12:00:00 AM,M,(w) GW Era - Post 9/11 only,3815138
+09/30/2048 12:00:00 AM,M,(s) VNE & GW Era - Post 9/11,3376
+09/30/2048 12:00:00 AM,M,(x) Post-GW Era,2760496
+09/30/2048 12:00:00 AM,M,(a) All Veterans (b+c),10052163
+09/30/2048 12:00:00 AM,M,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),6343215
+09/30/2048 12:00:00 AM,M,(c) Peacetime Veterans (h+l+o+t+x),3708948
+09/30/2048 12:00:00 AM,M,(d) WW II (i+j+k),0
+09/30/2048 12:00:00 AM,M,(e) Korean Conflict (j+k+m+n),25
+09/30/2048 12:00:00 AM,M,(f) Vietnam Era (k+n+p+q+r+s),283598
+09/30/2048 12:00:00 AM,M,(g) Gulf War Era (q+r+s+u+v+w),6088080

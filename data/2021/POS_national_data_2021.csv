@@ -1,0 +1,49 @@
+Date,Gender,POS,Veterans
+9/30/2021,Female,(h) Pre-WWII,60
+9/30/2021,Female,(i) WWII only,11769
+9/30/2021,Female,(j) WWII & KC,441
+9/30/2021,Female,"(k) WWII, KC, VNE",344
+9/30/2021,Female,(l) Between WWII & KC,1999
+9/30/2021,Female,(m) KC only,24672
+9/30/2021,Female,(n) KC & VNE,1963
+9/30/2021,Female,(o) Between KC & VNE,44610
+9/30/2021,Female,(p) VNE only,226424
+9/30/2021,Female,(q) VNE & GW Era - Pre 9/11,15885
+9/30/2021,Female,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",3425
+9/30/2021,Female,(t) Between VNE & GW Era,374869
+9/30/2021,Female,(u) GW Era - Pre 9/11 only,431194
+9/30/2021,Female,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,240778
+9/30/2021,Female,(w) GW Era - Post 9/11 only,662171
+9/30/2021,Female,(s) VNE & GW Era - Post 9/11,4754
+9/30/2021,Female,(x) Post-GW Era,0
+9/30/2021,Female,(a) All Veterans (b+c),2045384
+9/30/2021,Female,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),1623821
+9/30/2021,Female,(c) Peacetime Veterans (h+l+o+t+x),421538
+9/30/2021,Female,(d) WW II (i+j+k),12554
+9/30/2021,Female,(e) Korean Conflict (j+k+m+n),27421
+9/30/2021,Female,(f) Vietnam Era (k+n+p+q+r+s),252796
+9/30/2021,Female,(g) Gulf War Era (q+r+s+u+v+w),1358207
+9/30/2021,Male,(h) Pre-WWII,1614
+9/30/2021,Male,(i) WWII only,207915
+9/30/2021,Male,(j) WWII & KC,13606
+9/30/2021,Male,"(k) WWII, KC, VNE",6254
+9/30/2021,Male,(l) Between WWII & KC,41606
+9/30/2021,Male,(m) KC only,824357
+9/30/2021,Male,(n) KC & VNE,82394
+9/30/2021,Male,(o) Between KC & VNE,1197713
+9/30/2021,Male,(p) VNE only,5347903
+9/30/2021,Male,(q) VNE & GW Era - Pre 9/11,252689
+9/30/2021,Male,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",59234
+9/30/2021,Male,(t) Between VNE & GW Era,2540627
+9/30/2021,Male,(u) GW Era - Pre 9/11 only,2291047
+9/30/2021,Male,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1316894
+9/30/2021,Male,(w) GW Era - Post 9/11 only,2880353
+9/30/2021,Male,(s) VNE & GW Era - Post 9/11,52923
+9/30/2021,Male,(x) Post-GW Era,0
+9/30/2021,Male,(a) All Veterans (b+c),17117131
+9/30/2021,Male,(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),13335570
+9/30/2021,Male,(c) Peacetime Veterans (h+l+o+t+x),3781561
+9/30/2021,Male,(d) WW II (i+j+k),227775
+9/30/2021,Male,(e) Korean Conflict (j+k+m+n),926611
+9/30/2021,Male,(f) Vietnam Era (k+n+p+q+r+s),5801398
+9/30/2021,Male,(g) Gulf War Era (q+r+s+u+v+w),6853141
