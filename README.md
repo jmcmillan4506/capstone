@@ -14,7 +14,6 @@ Schedule (through 4/30/2021)
 1.	Get the Data (4/8/2021)
 2.	Clean & Explore the Data ((4/16/2021))
 3.	Create Presentation of your Analysis (4/22/2021)
--	Should be a presentation, but could include a Jupyter Notebook or dashboard in Excel, Tableau, or PowerBI
 4.	Internal demos (4/26/2021)
 5.	Demo Day!! (4/30/2021)
 
